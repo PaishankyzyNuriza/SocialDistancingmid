@@ -17,7 +17,7 @@
 ![Снимок экрана (76)](https://user-images.githubusercontent.com/73305001/141746575-ce23ac5e-d3ff-4704-bb34-398e2bfcbcfb.png)
 
 ### Done by tutorial. Used documentations and materials:
-### [https://youtu.be/KAYSk7BD_oI](url)
+[![Youtube tutorial]](https://youtu.be/0UdlEHjm-gU)
 ### https://docs.oracle.com/javafx/2/
 
 
